@@ -5,8 +5,8 @@ I'm a website developer proficient **Frontend Development: **
 * **Frameworks/Libraries: ** React, Angular, Vue. js
 * **Styling:** Tailwind CSS, Bootstrap, Responsive
 Design
-* **Tools: ** Git, npm/yarn
-**UI/UX Design: **
+* **Tools: figma ilustrator Git, npm/yarn
+##UI/UX Design:
 * **Concepts:** User-Centered Design, Wireframing, Prototyping, Usability Testing
 * **Tools: ** [Mention specific UI/UX software you use, e.g., Figma, Adobe HTML ,CSS,Javascript ,bootstrap,angular with a strong background in UI/UX in figma and adobe ilustrator, passionate about creating intuitive and visually appealing web experiences.
 
