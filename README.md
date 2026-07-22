@@ -1,7 +1,7 @@
 Hi there 👋 I'm Yohannes Belete!
 
 I'm a website developer proficient **Frontend Development: **
-* **Languages:** HTML, CSS, JavaScript (ES6+)
+* **Languages:** HTML, CSS, JavaScript (ES6+),Python
 * **Frameworks/Libraries: ** React, Angular, Vue. js
 * **Styling:** Tailwind CSS, Bootstrap, Responsive
 Design
