@@ -3,111 +3,132 @@
 </p>
 <div align="center">
 
-# YOHANNES BELETE
+<h1 align="center">Hi 👋, I'm Yohannes Belete</h1>
 
-### Software Developer • Builder • Learner 🇪🇹
+<h3 align="center">
+Computer Science Student  • Full-Stack Development • Flutter • Cybersecurity 
+</h3>
 
-Building ideas into real-world software.
+<p align="center">
+  I build secure, useful, and beautiful digital products.
 
-Full-Stack Development • Flutter • Python • Cybersecurity
+  ## 🚀 About Me
 
-</div>
+I'm a Computer Science student passionate about software development, cybersecurity, and technology.
 
----
+I enjoy turning ideas into real-world products — from web applications and mobile apps to secure digital systems.
 
-## ⚡️ About Me
+### 🔭 Currently working on
+- 🚗 ShumShufer — an Ethiopian driving-lesson marketplace
+- 🌐 Full-stack web development
+- 📱 Flutter & Dart application development
+- 🔐 Cybersecurity and IT support
 
-I'm Yohannes Belete, a software developer focused on building practical and user-centered digital products.
-
-I enjoy turning ideas into real applications across web, mobile, and backend technologies.
-
-My interests include:
-
-- 🌐 Full-Stack Web Development
-- 📱 Mobile Application Development
-- 🐍 Python Development
-- 🔐 Cybersecurity
-- 🎨 UI/UX Design
-- 🚀 Startup & Product Development
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-HTML • CSS • JavaScript • Python • Dart
-
-### Frontend
-
-React • Angular • Vue.js • Next.js • Tailwind CSS • Bootstrap
-
-### Backend
-
-Node.js • Express.js • Flask • REST APIs
-
-### Mobile
-
-Flutter • Dart
-
-### Design
-
-Figma • Adobe Illustrator • UI/UX Design
-
-### Tools
-
-Git • GitHub • npm • VS Code
-
----
-
-## 🚀 What I'm Building
-
-### 🚗 ShumShufer
-
-An Ethiopian driving-lesson marketplace connecting learners with verified driving schools and instructors.
-
-Focus: Marketplace • LMS • Mobile • Web • Backend
-
----
-
-## 📚 Currently Learning
-
+### 🌱 Currently learning
 - JavaScript
 - Flutter & Dart
-- Backend Development
-- REST API Development
-- Python
+- Backend development
+- Databases & APIs
 - Cybersecurity
-- Full-Stack Development
+
+### 🎯 My goal
+To become a highly skilled software engineer and build technology that solves real problems.</p>
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,dart,html,css" />
+</p>
+
+### 🌐 Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,tailwind" />
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,git,github,vscode" />
+</p>
+
+### 🔐 Cybersecurity
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
+## 🚀 Featured Projects
+
+### 🚗 ShumShufer
+Ethiopian Driving Lesson Marketplace
+
+A platform connecting learners with verified driving schools and instructors.
+
+- 🏫 Driving school discovery & comparison
+- 📚 Learning Management System (LMS)
+- 📅 Driving lesson booking
+- 💳 Online payments
+- 🔐 Verification & trust system
+- 📱 Web & mobile application
+
+Tech: Next.js Node.js Express Flutter SQLite Tailwind CSS
 
 ---
 
-## 🎯 My Goals
+### 🌦️ Weather Web App
+Weather & Outfit Recommendation Application
 
-Build useful software.
+A responsive weather application that provides weather information together with practical outfit recommendations.
+## 📊 GitHub Stats
 
-Learn continuously.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yemijohnnyaladel&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemijohnnyaladel&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
 
-Create products that solve real-world problems.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yemijohnnyaladel&theme=tokyonight&hide_border=true" />
+</p>
 
-Contribute to the developer community.
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[LinkedIn](https://www.linkedin.com/in/yohannes-belete-b9894a308/)
-
-</div>
+Tech: Flutter Dart API Integration
 
 ---
 
-<div align="center">
+### 💼 Developer Portfolio
+Personal Portfolio Website
 
-### Building. Learning. Improving. 🚀
+A responsive portfolio showcasing my projects, technical skills, experience, and development journey.
 
-🇪🇹 Built from Ethiopia
+Tech: HTML CSS JavaScript Node.js
+🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/yemijohnnyaladel">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yohannes-belete-b9894a308/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+## 🎯 Current Focus
 
-</div>
+- 🚀 Building and improving ShumShufer
+- 💻 Becoming a stronger Full-Stack Developer
+- 📱 Developing applications with Flutter & Dart
+- 🔐 Expanding my Cybersecurity skills
+- 🌐 Building real-world projects and contributing to open source
+- 📚 Continuously learning and improving my software engineering skills
+  ---
+
+<p align="center">
+  <b>💡 Building. Learning. Creating.</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! 🚀
+</p>
+
+<p align="center">
+  <i>Let's build something meaningful.</i>
+</p>
