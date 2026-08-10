@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-banner.PNG" alt="Yohannes Belete - Software Developer" width="100%">
+</p>
 <div align="center">
 
 # YOHANNES BELETE
